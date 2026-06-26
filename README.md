@@ -17,7 +17,7 @@ This repository contains the full pipeline used to extract affective features
 news messages, combine them with technical indicators, train gradient-boosted
 ensembles (LightGBM, XGBoost, CatBoost) and a BiGRU, and evaluate them under a
 **leakage-audited, regime-robust protocol** for seven U.S. mega-cap stocks
-(AAPL, MSFT, GOOGL, AMZN, META, TSLA, NVDA), 2015–2023.
+(AAPL, MSFT, GOOGL, AMZN, META, TSLA, NVDA), 2015–2024.
 
 ---
 
