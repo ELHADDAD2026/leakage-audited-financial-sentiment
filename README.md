@@ -4,8 +4,13 @@ Replication code for "A leakage-audited, regime-robust protocol for evaluating l
 
 Code accompanying the paper:
 
-> **A leakage-audited, regime-robust protocol for evaluating learning models on affective financial text** — *When emotion- and sarcasm-based stock-movement prediction reflects regime co-movement, not skill.*
-> [Authors]. Submitted to *Neurocomputing*, 2025. DOI: [to be added on acceptance].
+## Citation
+
+If you use this code, please cite:
+
+> El Haddad, A., Achchab, S., & Lahrichi, Y. (2026).
+> *A leakage-audited, regime-robust protocol for evaluating learning models on
+> affective financial text.* Manuscript submitted for publication (Neurocomputing).
 
 This repository contains the full pipeline used to extract affective features
 (FinBERT sentiment, sarcasm, emotions, emoji) from ~3.06 million social-media and
