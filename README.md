@@ -1,7 +1,6 @@
 # A Leakage-Audited, Regime-Robust Protocol for Evaluating Stock-Movement Prediction From Affective Text
 
-Code and reproducible pipeline for the paper *"A Leakage-Audited, Regime-Robust
-Protocol for Evaluating Machine-Learning Models on Affective Text"*
+Code and reproducible pipeline for the paper *"A Leakage-Audited, Regime-Robust Protocol for Evaluating Stock-Movement Prediction From Affective Text"*
 (A. El Haddad, S. Achchab, Y. Lahrichi), submitted to **IEEE Access**.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20945552.svg)](https://doi.org/10.5281/zenodo.20945552)
